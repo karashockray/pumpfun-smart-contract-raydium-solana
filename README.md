@@ -2,6 +2,8 @@
 
 **PumpFun Bonding Curve Protocol** 是基于 Raydium Dex 协议的 Solana 协议，旨在实现代币奖励、流动性管理和去中心化金融机制等高级功能。该项目旨在与 Solana 生态系统无缝集成，确保性能、可扩展性和安全性。
 
+![image](https://github.com/user-attachments/assets/f09d164a-c02c-4dc3-b5e3-9f5e26be4f88)
+
 
 ## 核心功能
 
@@ -66,9 +68,8 @@ Migration is a critical process that occurs once the bonding curve has completed
 
 1. Get soucecode:
 
-   ```
-    联系 [@ghostkar](https://t.me/ghostkar)
-   ```
+  联系 [@ghostkar](https://t.me/ghostkar)
+   
 2. Install dependencies:
    ```
     - anchor : v0.31.0
